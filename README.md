@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o JULIO
 
-## Sobre mim  
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas (UDF)  
 - 🕹️ Formação em Programação de Jogos  
 - 🔧 Experiência com hardware, redes e suporte técnico  
